@@ -3,7 +3,7 @@
 - 🔭 我是一名IT技术发烧友，喜欢鼓捣电脑，喜欢编程去实现一些东西
 - 🌱 目前喜欢机器学习与深度学习
 - 👯 希望向更多大佬学习
-- 💬 Ask me about ![Keviness Blog](https://keviness.github.io/)
+- 💬 Ask me about [Keviness Blog](https://keviness.github.io/)
 ### Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23EDDC68?style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-%235A7D9A?style=flat-square)
